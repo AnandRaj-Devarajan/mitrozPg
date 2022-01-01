@@ -1,0 +1,121 @@
+.me-2 {
+    width: 400px;
+    height: 30px;
+    left: 277px;
+    top: 45px;
+    background: #9c9da1;
+    border-radius: 30px !important;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: 10;
+}
+
+.body {
+    top: 0px !important;
+    background: #cfdcf0;
+    min-height: 600px;
+
+
+}
+
+.navv {
+    background: #FFFFFF;
+}
+
+.items {
+    /* position: absolute; */
+    left: 40.5%;
+    right: 26.5%;
+    top: 14.94%;
+    bottom: 84.08%;
+    padding: 14px;
+    font-family: "Nexa";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 17px;
+    color: #808080;
+
+}
+
+.items.link {
+    color: #808080;
+}
+
+.R1 {
+    margin-top: 0px !important;
+}
+
+.R2 {
+    margin-top: 110px !important;
+}
+
+.C1, .C2 {
+    margin-top: 30px !important;
+}
+
+.Table {
+    height: 350px;
+    margin-top: 17px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    border: 7px solid #e5eff5;
+
+    font-family: "Nexa";
+    font-style: normal;
+    /* font-weight: bold; */
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    color: rgba(113, 113, 113, 0.6);
+
+}
+
+.clik1 {
+    width: 150px;
+    height: 28px;
+    color: #FFFFFF;
+    background: #1175c7 !important;
+    border-radius: 20px;
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.clik2, .clik3 {
+    font-family: 'Courier New', Courier, monospace;
+    width: 100px;
+    height: 27px;
+    border: none;
+    color: rgb(84, 134, 226);
+    background: #DFE6FD;
+    border-radius: 5px;
+}
+
+.clik3 {
+    width: 140px !important;
+}
+
+.clik4, .clik5 {
+    font-family: 'Courier New', Courier, monospace;
+    width: 100px;
+    height: 24px;
+    border: none;
+    color: rgb(255, 255, 255);
+    background: #0e4fc7;
+    border-radius: 5px;
+    font-size: 11px;
+}
+
+.tabledata {
+    font-size: 11px;
+    margin-top: 27px !important;
+    height: 200px;
+    border: 2px solid #e5eff5;
+    border-radius: 20px;
+    padding: 10px;
+}
